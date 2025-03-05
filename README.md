@@ -25,7 +25,8 @@ myenv\Scripts\activate     # Windows
 
 # Install required packages
 pip install streamlit requests
-2️⃣ Install Ollama and Deepseek R1 Model
+
+### **2️⃣ Install Ollama and Deepseek R1 Model**
 Make sure you have Ollama installed. You can install it using:
 
 sh
