@@ -44,7 +44,7 @@ ollama pull deepseek-r1
 ollama serve
 This will start the Ollama API at http://localhost:11434.
 
-3️⃣ Run the Project
+### **3️⃣ Run the Project**
 Now, you can start the Streamlit application:
 
 sh
