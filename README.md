@@ -32,14 +32,13 @@ pip install streamlit requests
 Make sure you have Ollama installed. You can install it using:
 ```
 # Install Ollama (if not installed)
-winget install Ollama  # Windows
+pip install Ollama  # Windows
 brew install ollama    # macOS
 ```
 
 Now, download and run the Deepseek R1 model:
 ```
-ollama pull deepseek-r1
-ollama serve
+ollama run deepseek-r1
 ```
 This will start the Ollama API at http://localhost:11434.
 
