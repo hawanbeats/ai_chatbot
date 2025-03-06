@@ -32,7 +32,8 @@ pip install streamlit requests
 Make sure you have Ollama installed. You can install it using:
 ```
 # Install Ollama (if not installed)
-pip install Ollama  # Windows
+pip install ollama  # Windows
+winget install ollama # Windows
 brew install ollama    # macOS
 ```
 
