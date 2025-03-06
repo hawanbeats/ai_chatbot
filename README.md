@@ -17,7 +17,7 @@ This project is a **chatbot powered by the Deepseek R1 model**, built using **St
 ### **1️⃣ Install Dependencies**
 First, ensure you have **Python** and **Git** installed. Then, create a virtual environment and install the required dependencies:
 
-```sh
+```
 # Create a virtual environment (optional)
 python -m venv myenv
 source myenv/bin/activate  # macOS/Linux
